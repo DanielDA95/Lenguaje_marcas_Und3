@@ -1,0 +1,77 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Estilos adicionales para otras páginas y secciones */
+/* ... */
+/* styles.css */
+/* Estilos generales para toda la tienda */
+/* ... */
+
+/* Estilos específicos para las categorías y productos */
+.product-categories {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+.product-categories h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.product-categories ul {
+    list-style: none;
+}
+
+.product-categories li {
+    margin-bottom: 5px;
+}
+
+.products {
+    padding: 20px;
+}
+
+.products h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.products h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.products ul {
+    list-style: none;
+}
+
+.products li {
+    margin-bottom: 3px;
+}
+/* Agregar más estilos según tus necesidades */
+/* ... */
